@@ -1,0 +1,20 @@
+{
+  "name": "generator-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node generators/app/index.js"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "shaw",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^5.2.0"
+  }
+}
